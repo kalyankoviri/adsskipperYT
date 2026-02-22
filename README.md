@@ -35,3 +35,19 @@ Clone the repository and install the dependencies:
 git clone [https://github.com/YOUR_USERNAME/Youtube-Ad-Skipper.git](https://github.com/YOUR_USERNAME/Youtube-Ad-Skipper.git)
 cd Youtube-Ad-Skipper
 pip install -r requirements.txt
+
+Run the script directly:
+python main.py
+Or use the compiled .exe version from the dist folder.
+
+⚠️ Important Precautions
+Antivirus: Since this script controls the mouse, software like Avast may flag it. You must add the project folder to your Antivirus Exclusions/Exceptions list.
+
+Screen Resolution: The skip_button.png must be captured on the same monitor and resolution where you watch YouTube.
+
+👨‍💻 Author
+Koviri kalyan jagan kumar
+
+Current Project: YouTube Automation & DSA 75-Day Challenge.
+
+Also check out my other project: [suseme-chat-app]
